@@ -1,4 +1,4 @@
-// Configuration du site Great MSR
+// Configuration du site Great INDRAJIT 1M
 // Modifiez ces valeurs pour personnaliser votre site
 
 const SITE_CONFIG = {
