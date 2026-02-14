@@ -3,7 +3,7 @@
 
 const SITE_CONFIG = {
     // Informations personnelles
-    title: "Great MSR",
+    title: "Great INDRAJIT 1M",
     citation: "I don't seek power - I am power.",
     
     // Couleurs principales (format hexadécimal)
@@ -19,9 +19,9 @@ const SITE_CONFIG = {
     socialLinks: {
         github: "msr",
         tiktok: "msr",
-        youtube: "https://www.youtube.com/@MSRMONSTAR",
+        youtube: "https://youtube.com/@indrajit_1m0?si=1dmpQBuNPJA9aPdJ",
         discord: "https://discord.gg/A3kZbamDT",
-        telegram: "https://t.me/msr_monstar"
+        telegram: "https://t.me/INDRAJITFREEAPI"
     },
     
     // Configuration audio
