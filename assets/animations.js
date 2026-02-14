@@ -1,4 +1,4 @@
-// Animations avancées pour Great MSR
+// Animations avancées pour Great INDRAJIT 1M
 
 class AdvancedAnimations {
     constructor() {
